@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+h2 {
+  color: white;
+  text-align: center;
+}
+h3 {
+  color: white;
+}
+ul {
+  list-style-type: none;
+  margin: 20px;
+}
+li {
+  display: inline-block;
+  color: white;
+}
+a {
+  font-size: 30px;
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  color: aquamarine;
+}
+p {
+  color: white;
+  text-align: center;
+}
